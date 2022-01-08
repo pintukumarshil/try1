@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header{
+    background-color: #87509c!important;
+}
+.gloabel_heading{font-size: 30px;}
+.navbar{background-color: #87509c!important;}
+.lead{font-weight: 700;}
+.btn{background: #f3743b;}
+.btn:hover{background: #ff9f76;}
+#about{background-color: #17c2a4;}
+.underline{
+    width: 90px;
+    height: 3px;
+    background: #177564;
+    margin: auto;
+}
+#team{background: #e7f1f8;}
+
+.team_image_part img{
+padding: 5px;
+background-color: #878787;
+border-radius: 50%;
+}
+.fonts a:hover{
+ background:#f1eaea; ;
+}
+
+.fonts i{
+   background: rgb(179, 147, 147);
+   border-radius: 50%;
+}
